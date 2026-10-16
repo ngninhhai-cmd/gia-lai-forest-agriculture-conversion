@@ -1,0 +1,3 @@
+﻿Variable,Moran_I,E_I,SE_perm,z_score,p_value,n,Permutations
+C_i (conversion intensity),0.252302,-6.3e-05,0.003954,63.8522,0.001,15945,999
+Y_i (binary conversion),0.281461,-6.3e-05,0.003876,72.6053,0.001,15945,999

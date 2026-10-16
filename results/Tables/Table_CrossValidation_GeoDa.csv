@@ -1,0 +1,14 @@
+,Gi_High_Low,Gi_3levels,LISA
+Coldspot 90%,,710.0,
+Coldspot 95%,,1269.0,
+Coldspot 99%,,3581.0,
+High (Hotspot),3940.0,,
+High-High,,,3610.0
+High-Low,,,72.0
+Hotspot 90%,,747.0,
+Hotspot 95%,,1440.0,
+Hotspot 99%,,2500.0,
+Low (Coldspot),4850.0,,
+Low-High,,,249.0
+Low-Low,,,4917.0
+Not significant,7194.0,5737.0,7136.0

@@ -1,0 +1,8 @@
+﻿Class,Code,N_cells,Percent
+Coldspot 99%,1,740,4.64
+Coldspot 95%,2,1157,7.26
+Coldspot 90%,3,693,4.35
+Not significant,4,10970,68.8
+Hotspot 90%,5,636,3.99
+Hotspot 95%,6,896,5.62
+Hotspot 99%,7,853,5.35
