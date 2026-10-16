@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+authors:
+  - family-names: "Nguyen"
+    given-names: "Ninh-Hai"
+    email: "ngninhhai@hcmuaf.edu.vn"
+title: "Data and code for: Spatiotemporal Dynamics of Forest–Agriculture Conversion in Gia Lai Province, Vietnam (2000–2025)"
+version: 1.0.0
+date-released: "2025-01-01"
+license: MIT
+repository-code: "https://github.com/ngninhhai-cmd/gia-lai-forest-agriculture-conversion"
+keywords:
+  - land use change
+  - deforestation
+  - spatial econometrics
+  - Vietnam
