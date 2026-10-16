@@ -1,0 +1,5 @@
+﻿Year,Source_file,Aligned_file,Ref_year,Width,Height,Valid_pixels,Nodata_pixels,Other_pixels,Realigned
+2000,LULC_2000_3406.tif,LULC_2000_aligned.tif,2000,5197,5987,17229081,13885358,0,False
+2010,LULC_2010_3406.tif,LULC_2010_aligned.tif,2000,5197,5987,17265322,13849117,0,True
+2020,LULC_2020_3406.tif,LULC_2020_aligned.tif,2000,5197,5987,17228794,13885645,0,False
+2025,LULC_2025_3406.tif,LULC_2025_aligned.tif,2000,5197,5987,17265331,13849108,0,True
